@@ -1,11 +1,7 @@
-# Analysis of used cars market in UK(MVP)
-The purpose of the analysis is to know the most popular used cars in the market and what is the features the customer depends on, to create a new car exhibition that meets the market demands
-So, one of the questions that we need to answer it is show below:
+# Regression model for prices of used cars market in UK(MVP)
+The purpose of the model is to predict the price of used cars in the market and what is the features the customer depends on, to create model that can predict the car prices, so one of our model is shown below which called cox box:
 
-What is the correlation between price and year, price and mileage ?
+Cox box model
 
-We found that the relationship between them is the newer the year of manufacture the car is, the more expensive it is, and the lower its mileage, the higher its price 
 ### Figure 1
-
-![](https://github.com/iAmersaleh/EDA_t5/issues/1#issue-1056012267)
-
+![MVP](https://user-images.githubusercontent.com/93071403/145725709-920ecd91-d07d-4894-9aa1-ff2b504fa2bb.png)
