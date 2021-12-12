@@ -2,7 +2,7 @@
   T5 Project proposal
 Linear Regression
 
-## students:
+## Students:
 * Amer Saleh
 * Naif Alsulaihem
 * Nasser Alshehri
