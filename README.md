@@ -15,9 +15,9 @@ Until the gas and fuel cars were invented
 
 Cars are one of the most important necessities for every family, as they are the most popular means of transportation these days.
 
-This project aims to analyze the used car market in the UK, compare car prices by type, engine, and car model, for example, which cars are most in demand. With the presence of more than one car company.
+This project aims to predict the price of used car market in the UK, predict car prices by type, engine, and car model.
 
-We will do a comprehensive analysis to find the best used cars to attract customers so that our showrooms are among the best and we can achieve the company's goal and vision for development in the used car sectors
+We will do a regression models to predict the prices of used cars to attract customers so that our exhibtion are among the best and we can achieve the company's goal and vision for development in the used car sectors
 
 ## Algorithms:
 After we explore data, we wil creates our Regression models to predict car prices, and comapre them to find the best model.
