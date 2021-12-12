@@ -1,0 +1,6 @@
+# Regression model for prices of used cars market in UK(MVP)
+The purpose of the model is to predict the price of used cars in the market and what is the features the customer depends on, to create model that can predict the car prices, so one of our model is shown below which called cox box:
+
+Cox box model
+
+### Figure 1
